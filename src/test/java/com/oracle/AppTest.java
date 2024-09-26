@@ -1,4 +1,4 @@
-package com.oracle.graalvm.demos.hellonative;
+package com.oracle.graalvm;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
