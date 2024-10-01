@@ -113,6 +113,9 @@ drwxr-xr-x@ 12 enono  staff   384B 26 sep 15:53 .
 -rwxr-xr-x@  1 enono  staff   6,4M 26 sep 15:53 helloworld
 ```
 
+Use the `--emit build-report` option introduces with GraalVM 23 to generate a build report .
+[]!(./images/image.png)
+
 ## Run the native Binary 
 with GraalVM Native image you can run your application whitout a JVM!
  
